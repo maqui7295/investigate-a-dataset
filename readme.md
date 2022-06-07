@@ -915,8 +915,11 @@ A larger proportion (20.9%) of those without any condition did not keep their ap
 ## Conclusions
 
 **Firstly, it is pertinent to note that this analysis is tentative**.
-Gender did not seem to influence the missing of hospital appointments (NoShow) among the population. Also, the length of days between scheduled date and appointment day seems to play a row on NoShow as 0 days (same-day) appointments were less missed.
-The reception of SMS seemed to influence NoShow. However, more insight could be gained if presence of disease or the length of days were considered along with receiving SMS. More proportion of those sponsored also missed their appointment relative to those who were not sponsored. Finally, more people without any condition (3% more than those with any condition) missed their appointment. Here also, we could probe further by checking which of the conditions (Hypertension or Diabetes or Alcoholism or Handicap) had more of NoShow.
+- Gender did not seem to influence the missing of hospital appointments (NoShow) among the population. 
+- Also, the length of days between scheduled date and appointment day seems to play a row on NoShow as 0 days (same-day) appointments were less missed.
+- The reception of SMS seemed to influence NoShow. However, more insight could be gained if presence of disease or the length of days were considered along with receiving SMS. 
+- More proportion of those sponsored also missed their appointment relative to those who were not sponsored. 
+- Finally, more people without any condition (3% more than those with any condition) missed their appointment. Here also, we could probe further by checking which of the conditions (Hypertension or Diabetes or Alcoholism or Handicap) had more of NoShow.
 
 
 ### Limitations
@@ -930,10 +933,3 @@ Secondly, statistically modelling (logistic regression) was not performed. This 
 from subprocess import call
 call(['python', '-m', 'nbconvert', 'Investigate_a_Dataset.ipynb'])
 ```
-
-
-
-
-    0
-
-
